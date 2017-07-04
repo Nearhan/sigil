@@ -1,0 +1,6 @@
+package: github.com/Nearhan/sigil
+import:
+- package: github.com/pravj/geopattern
+  version: ~1.4.1
+- package: github.com/dinever/golf
+  version: v0.3.0

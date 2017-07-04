@@ -1,0 +1,15 @@
+hash: 883938f60126b7ddd8de9fb7d29dc67f0ab828d84e0706ba57d0696bd2925025
+updated: 2017-06-27T23:13:53.33112645-04:00
+imports:
+- name: github.com/dinever/golf
+  version: 11abebbbb289ef6f35e518db394eaca39cee8732
+- name: github.com/lucasb-eyer/go-colorful
+  version: c900de9dbbc73129068f5af6a823068fc5f2308c
+- name: github.com/pravj/geopattern
+  version: 8ede6605fa3e8aab1162c437cd6d046a317c7d94
+  subpackages:
+  - pattern
+  - shapes
+  - svg
+  - utils
+testImports: []
